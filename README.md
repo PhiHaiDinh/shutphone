@@ -28,7 +28,7 @@ Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/Phi
 
 ## English version
 
-The mobile application "ShutPhone was developed as part of my bachelor thesis. In my previous module [practical project](https://github.com/PhiHaiDinh/ShutApps) I have dealt with a similar topic. Because of that I'm trying an another approach in context of the restaurants.  
+The mobile application "ShutPhone" was developed as part of my bachelor thesis. In my previous module [practical project](https://github.com/PhiHaiDinh/ShutApps) I have dealt with a similar topic. Because of that I'm trying an another approach in context of the restaurants.  
 The title of my bachelor thesis is "
 Conception and implementation of a mobile application for the location-based gamification of the non-use of smartphones".
 

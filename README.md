@@ -9,7 +9,7 @@ Für die Nicht-Nutzung des Smartphones erhalten die Nutzer Punkte, die sie in Be
  
 Weitere Informationen in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)
 
-## Architektur
+## Architektur & Komponenten
 ![architektur](https://user-images.githubusercontent.com/38287483/38677541-da8818b2-3e5e-11e8-94ec-68bf5bfd7ac5.jpg)
 
 * **Android Studio** als Entwicklungsumgebung

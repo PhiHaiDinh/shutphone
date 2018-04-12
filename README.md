@@ -4,7 +4,7 @@ Im vorherigen Modul [Praxisprojekt](https://github.com/PhiHaiDinh/ShutApps) wurd
 Das Thema lautet "Konzeption und Implementierung einer mobilen Anwendung zur standortbasierten Gamifizierung der Nicht-Nutzung von Smartphones". 
 
 
-Das Ziel dieses Projekts ist es die Smartphone-Nutzung im Kontext auf die Gaststätten zu minimieren. 
+Das Ziel dieser Bachelorarbeit ist es die Smartphone-Nutzung im Kontext auf die Gaststätten zu minimieren. 
 Für die Nicht-Nutzung des Smartphones erhalten die Nutzer Punkte, die sie in Belohungen umtauschen können. 
  
 Weitere Informationen in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)

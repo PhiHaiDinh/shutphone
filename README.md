@@ -7,7 +7,7 @@ Das Thema lautet "Konzeption und Implementierung einer mobilen Anwendung zur sta
 Das Ziel dieser Bachelorarbeit ist es die Smartphone-Nutzung im Kontext auf die Gaststätten zu minimieren. 
 Für die Nicht-Nutzung des Smartphones erhalten die Nutzer Punkte, die sie gegen Belohungen umtauschen können. 
  
-Weitere Informationen in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)
+Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)
 
 ## Architektur & Komponenten
 ![architektur](https://user-images.githubusercontent.com/38287483/38677541-da8818b2-3e5e-11e8-94ec-68bf5bfd7ac5.jpg)

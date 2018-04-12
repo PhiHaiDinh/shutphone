@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShutApps 2.0</string>
+    <string name="facebook_app_id">131436924186520</string>
+    <string name="fb_login_protocol_scheme">fb131436924186520</string>
+    <string name="accessibility_service_description">ShutApps nutzt Funktionen aus den Bedienhilfen, um zu beobachten, ob von Freunde blockierte Apps gestartet werden.</string>
+    <string name="accessibility_title">Accessibility Service</string>
+    <string name="accessibility_explanation">ShutPhone benötigt Funktionen aus den Bedienhilfen, um zu funktionieren. Bei Ja werden Sie zu den Systemeinstellungen weitergeleitet. Bei Nein wird die App geschlossen.</string>
+
+</resources>

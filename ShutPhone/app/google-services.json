@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "187565442394",
+    "firebase_url": "https://shutphone-bd2ab.firebaseio.com",
+    "project_id": "shutphone-bd2ab",
+    "storage_bucket": "shutphone-bd2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187565442394:android:199a01de44468a01",
+        "android_client_info": {
+          "package_name": "com.example.phihai.ShutPhone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187565442394-sg8jg8e6mdb99rb8scs21n5lbalsdfi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phihai.ShutPhone",
+            "certificate_hash": "f58c14d41cf6d09690c2e5b0570b1d184577e0a0"
+          }
+        },
+        {
+          "client_id": "187565442394-ivc65cr1pvelrk4u1h12han04gs7n76m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phihai.ShutPhone",
+            "certificate_hash": "cb3d2adbb47454bb22b58c56843b566849408bd5"
+          }
+        },
+        {
+          "client_id": "187565442394-5j08l09f2f7kj7e9ifje9ddjau6pvps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nSeKI8MkBiA7LRBWW8whqOX4CLiZ6HU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187565442394-5j08l09f2f7kj7e9ifje9ddjau6pvps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

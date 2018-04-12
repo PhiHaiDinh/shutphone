@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">187565442394</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.example.phihai.ShutPhone</string>
+    <!-- achievement Bier -->
+    <string name="achievement_bier" translatable="false">CgkI2oqW3roFEAIQAw</string>
+    <!-- achievement Pizza -->
+    <string name="achievement_pizza" translatable="false">CgkI2oqW3roFEAIQFA</string>
+    <!-- achievement Frozen Yogurt -->
+    <string name="achievement_frozen_yogurt" translatable="false">CgkI2oqW3roFEAIQFQ</string>
+    <!-- achievement Schnitzel und Pommes -->
+    <string name="achievement_schnitzel_und_pommes" translatable="false">CgkI2oqW3roFEAIQFg</string>
+    <!-- achievement Burger -->
+    <string name="achievement_burger" translatable="false">CgkI2oqW3roFEAIQFw</string>
+    <!-- leaderboard ShutPhone Leaderboard -->
+    <string name="leaderboard_shutphone_leaderboard" translatable="false">CgkI2oqW3roFEAIQAg</string>
+    <!-- event Erreicht zwei Stunden -->
+    <string name="event_erreicht_zwei_stunden" translatable="false">CgkI2oqW3roFEAIQCQ</string>
+    <!-- event Erreicht vier Stunden -->
+    <string name="event_erreicht_vier_stunden" translatable="false">CgkI2oqW3roFEAIQGA</string>
+    <!-- event Erreicht sechs Stunden -->
+    <string name="event_erreicht_sechs_stunden" translatable="false">CgkI2oqW3roFEAIQGg</string>
+    <!-- event Erreicht acht Stunden -->
+    <string name="event_erreicht_acht_stunden" translatable="false">CgkI2oqW3roFEAIQGw</string>
+    <!-- event Erreicht zehn Stunden -->
+    <string name="event_erreicht_zehn_stunden" translatable="false">CgkI2oqW3roFEAIQHA</string>
+    <!-- quest Kriege eine Pizza -->
+    <string name="quest_kriege_eine_pizza" translatable="false">CgkI2oqW3roFEAIQGQ</string>
+    <!-- quest Kriege ein Schnitzel mit Pommes -->
+    <string name="quest_kriege_ein_schnitzel_mit_pommes" translatable="false">CgkI2oqW3roFEAIQHQ</string>
+    <!-- quest Kriege ein Frozen Yogurt -->
+    <string name="quest_kriege_ein_frozen_yogurt" translatable="false">CgkI2oqW3roFEAIQHg</string>
+    <!-- quest Kriege ein Burger -->
+    <string name="quest_kriege_ein_burger" translatable="false">CgkI2oqW3roFEAIQHw</string>
+    <!-- quest Kriege ein 0,5l Bier -->
+    <string name="quest_kriege_ein_05l_bier" translatable="false">CgkI2oqW3roFEAIQCg</string>
+</resources>

@@ -1,6 +1,6 @@
 # ShutPhone
 Die mobile Anwendung "ShutPhone" ist im Rahmen meiner Bachelorarbeit enstanden. 
-Im vorherigen Modul [Praxisprojekt](https://github.com/PhiHaiDinh/ShutApps) wurde ein ähnliches Thema behandelt, weswegen in meiner Bachelorarbeit eine andere Vorgehensweise im Kontext auf die Gaststätten behandelt wurde. 
+Ein ähnliches Thema wurde im vorherigen Modul [Praxisprojekt](https://github.com/PhiHaiDinh/ShutApps) behandelt, woraus sich der Leitgedanke für meine Bachelorarbeit entwickelte, welche sich auf die Vorgehensweise im Kontext auf die Gaststätten bezieht. 
 Das Thema lautet "Konzeption und Implementierung einer mobilen Anwendung zur standortbasierten Gamifizierung der Nicht-Nutzung von Smartphones". 
 
 
@@ -33,5 +33,5 @@ The title of my bachelor thesis is "
 Conception and implementation of a mobile application for the location-based gamification of the non-use of smartphones".
 
 The aim of my thesis is to minimize the use of smartphones in restaurants. 
-For this purpose, the users should be rewarded for the non-use of smartphone.
+For this purpose, the users should be rewarded for the non-use of smartphones.
 This is a protoype in Android. 

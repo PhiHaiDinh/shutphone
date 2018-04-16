@@ -19,7 +19,7 @@ Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/Phi
 * Client als mobiler Client in **Android**
   * **Accessibility-Service** zur Erkennung der Vordergrund-App
 * **Google Game Play Services** für die Anbindung von Google Play
-  * **Achievements API** zur Erhaltung von Errungenschaften
+  * **Achievements API** für die Errungenschaften von Google
 * **Firebase Authentication** zur Authentifizierung in der Anwendung
 * Anbindung von Facebook mit der **Facebook API**
 

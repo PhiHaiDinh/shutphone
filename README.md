@@ -9,6 +9,7 @@ Für die Nicht-Nutzung des Smartphones erhalten die Nutzer Punkte, die sie gegen
 Hierbei handelt es sich um einen Prototypen in Android. 
 
 Quellencode: [Android App](https://github.com/PhiHaiDinh/shutphone/tree/master/ShutPhone)
+
 Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)
 
 ## Architektur & Technologien

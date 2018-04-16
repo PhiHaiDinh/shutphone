@@ -14,7 +14,7 @@ Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/Phi
 ![architektur](https://user-images.githubusercontent.com/38287483/38677541-da8818b2-3e5e-11e8-94ec-68bf5bfd7ac5.jpg)
 
 * **Android Studio** als Entwicklungsumgebung
-* **Kiosk Mode** zur Einschränkung des Smartphones
+* **Kiosk Mode** zur Einschränkung der Hard-Buttons am Smartphone
 * **Estimote Beacon** zur Lokalisierung des Smartphones
 * Client als mobiler Client in **Android**
   * **Accessibility-Service** zur Erkennung der Vordergrund-App
@@ -35,3 +35,16 @@ Conception and implementation of a mobile application for the location-based gam
 The aim of my thesis is to minimize the usage of smartphones in restaurants. 
 For this purpose, users should be rewarded for the non-use of smartphones.
 This is a protoype in Android. 
+
+## Architecture and Techonologies
+![architektur](https://user-images.githubusercontent.com/38287483/38677541-da8818b2-3e5e-11e8-94ec-68bf5bfd7ac5.jpg)
+
+* **Android Studio** as development environment
+* **Kiosk Mode** for restriction of Hard-Buttons on the Smartphone
+* **Estimote Beacon** for localization on the Smartphones
+* Client as mobile Client in **Android**
+  * **Accessibility-Service** to detect the foreground app
+* **Google Game Play Services** for the connection of Google Play
+  * **Achievements API** for the achievements of Google Play
+* **Firebase Authentication** for authenticaton in the application
+* Connecting Facebook with the **Facebook API**

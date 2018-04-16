@@ -7,7 +7,8 @@ Das Thema lautet "Konzeption und Implementierung einer mobilen Anwendung zur sta
 Das Ziel dieser Bachelorarbeit ist es die Smartphone-Nutzung im Kontext auf die Gaststätten zu minimieren. 
 Für die Nicht-Nutzung des Smartphones erhalten die Nutzer Punkte, die sie gegen Belohungen umtauschen können. 
 Hierbei handelt es sich um einen Prototypen in Android. 
- 
+
+Quellencode: [Android App](https://github.com/PhiHaiDinh/shutphone/tree/master/ShutPhone)
 Genauere Informationen finden Sie in der [Bachelorarbeit](https://github.com/PhiHaiDinh/ShutPhone/blob/master/BA_ShutPhone_Vu_Phi_Hai_Dinh.pdf)
 
 ## Architektur & Technologien
@@ -35,6 +36,8 @@ Conception and implementation of a mobile application for the location-based gam
 The aim of my thesis is to minimize the usage of smartphones in restaurants. 
 For this purpose, users should be rewarded for the non-use of smartphones.
 This is a protoype in Android. 
+
+Source Code: [Android App](https://github.com/PhiHaiDinh/shutphone/tree/master/ShutPhone)
 
 ## Architecture and Techonologies
 ![architektur](https://user-images.githubusercontent.com/38287483/38677541-da8818b2-3e5e-11e8-94ec-68bf5bfd7ac5.jpg)
